@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Drop",
+  "base_artist": "HANA",
+  "createdAt": "2026-01-05T04:04:27.160378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drop",
+      "artist": "Dallas Smith",
+      "has_synced": true,
+      "path": "select/01_Drop_Dallas_Smith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Keith Urban feat. Kassi Ashton",
+      "has_synced": true,
+      "path": "select/02_Drop_Top_Keith_Urban_feat._Kassi_Ashton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/03_Drop_Top_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Cole Taylor",
+      "has_synced": false,
+      "path": "select/04_Drop_Top_Cole_Taylor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stop Drop and Roll",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/05_Stop_Drop_and_Roll_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drop It / Scooter",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/06_Drop_It___Scooter_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drop Down",
+      "artist": "Lunice feat. SOPHIE & Le1f",
+      "has_synced": false,
+      "path": "select/07_Drop_Down_Lunice_feat._SOPHIE_&_Le1f.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drop Down",
+      "artist": "Lunice",
+      "has_synced": false,
+      "path": "select/08_Drop_Down_Lunice.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drop It Doe Eyes",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/09_Drop_It_Doe_Eyes_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (feat. B.G. & Mannie Fresh)",
+      "artist": "Lil Wayne feat. B.G. & Mannie Fresh",
+      "has_synced": true,
+      "path": "select/10_Drop_It_Like_It's_Hot_(feat._B.G._&_Mannie_Fresh)_Lil_Wayne_feat._B.G._&_Mannie_Fresh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (feat. B.G. & Mannie Fresh)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/11_Drop_It_Like_It's_Hot_(feat._B.G._&_Mannie_Fresh)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drop Out",
+      "artist": "Lil Pump",
+      "has_synced": true,
+      "path": "select/12_Drop_Out_Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drop You Vivid Colours",
+      "artist": "Luminous Orange",
+      "has_synced": false,
+      "path": "select/13_Drop_You_Vivid_Colours_Luminous_Orange.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red Drop Shawty",
+      "artist": "Lil Peep feat. KirbLaGoop",
+      "has_synced": true,
+      "path": "select/14_Red_Drop_Shawty_Lil_Peep_feat._KirbLaGoop.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "red drop shawty (feat. KirbLaGoop)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/15_red_drop_shawty_(feat._KirbLaGoop)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Drop In Time",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/16_A_Drop_In_Time_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Drop a Beat",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/17_Drop_a_Beat_Moby.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drop",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_Drop_HANA.txt"
+    }
+  ]
+}
